@@ -1,2 +1,2 @@
 # hm-ledlight
-Control Individual Strips using the strips we bought &amp; arduino 
+Control Individual RGD Light Strips using the strips we bought &amp; arduino 
